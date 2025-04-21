@@ -5,12 +5,14 @@ labels: ['submit-flag']
 assignees: 'jeanpantaleon'
 body:
   - type: input
+    id: flag_author
     attributes:
       label: 'The author of the flag'
       placeholder: 'Your name'
     validations:
       required: true
-  - type: input  
+  - type: input
+  - id: flag_name
     attributes:
       label: 'The name of the flag'
       placeholder: 'Your flag\'s name'
