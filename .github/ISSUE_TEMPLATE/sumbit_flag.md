@@ -12,7 +12,7 @@ body:
     validations:
       required: true
   - type: input
-  - id: flag_name
+    id: flag_name
     attributes:
       label: 'The name of the flag'
       placeholder: 'Your flag\'s name'
