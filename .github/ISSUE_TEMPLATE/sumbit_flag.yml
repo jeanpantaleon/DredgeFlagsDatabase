@@ -3,6 +3,7 @@ title: 'Submitting a flag'
 about: Submit a flag request to the database
 labels: ['submit-flag']
 assignees: 'jeanpantaleon'
+---
 body:
   - type: input
     id: flag_author
