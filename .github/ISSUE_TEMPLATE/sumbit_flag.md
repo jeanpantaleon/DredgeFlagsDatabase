@@ -1,9 +1,8 @@
----
 name: Submit a flag
+title: 'Submitting a flag'
 about: Submit a flag request to the database
-labels: 'flag-request'
+labels: ['submit-flag']
 assignees: 'jeanpantaleon'
----
 body:
   - type: input
     attributes:
