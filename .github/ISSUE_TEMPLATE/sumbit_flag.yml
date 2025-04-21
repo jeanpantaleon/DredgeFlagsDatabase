@@ -14,8 +14,8 @@ body:
   - type: input
     id: flag_name
     attributes:
-      label: 'The name of the flag'
-      placeholder: 'Your flag\'s name'
+      label: The name of the flag
+      placeholder: Your flag name
     validations:
       required: true
   - type: textarea
