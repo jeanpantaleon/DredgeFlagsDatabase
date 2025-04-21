@@ -3,6 +3,7 @@ name: Submit a flag
 about: Submit a flag request to the database
 labels: 'flag-request'
 assignees: 'jeanpantaleon'
+---
 body:
   - type: input
     attributes:
@@ -19,4 +20,3 @@ body:
   - type: textarea
     attributes:
       label: 'Your image'
----
