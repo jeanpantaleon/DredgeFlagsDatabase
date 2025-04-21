@@ -20,4 +20,5 @@ body:
       required: true
   - type: textarea
     attributes:
+      placeholder: Drag and drop your flag picture here !
       label: 'Your image'
