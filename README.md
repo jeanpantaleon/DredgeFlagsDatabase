@@ -15,3 +15,5 @@ Please note that these rules may evolve in the future if problems appear.
 ## Submit your flag !
 
 You can click [here](https://github.com/jeanpantaleon/DredgeFlagsDatabase/issues/new?template=sumbit_flag.yml)
+
+*This is heavily inspired by the [WinchModDatabase](https://github.com/DREDGE-Mods/DredgeModDatabase)*
